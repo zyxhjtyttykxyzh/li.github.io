@@ -34,7 +34,7 @@
 ## 目录结构
 ```
 .
-├─ lizuyang.html
+├─ li.html
 ├─ characters.html
 ├─ story.html
 ├─ products.html
